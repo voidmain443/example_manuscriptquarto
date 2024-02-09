@@ -8,7 +8,7 @@ format:
       hypothesis: true
   docx: default
   jats: default
-  agu-pdf: default
+  acs-pdf: default
 
 
 
